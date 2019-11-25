@@ -1,3 +1,7 @@
+# Copyright 2019 jwf all rights reserved
+# create: 2019-11-26
+# author: jinweifeng
+
 #include <stdio.h>
 
 int main(void){
